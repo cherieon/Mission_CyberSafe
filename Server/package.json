@@ -1,5 +1,5 @@
 {
-  "name": "Mission:CyberSafe",
+  "name": "MissionCyberSafe",
   "version": "1.0.0",
   "description": "Interactive Node.js app to teach cloud security",
   "main": "app.js",
